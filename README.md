@@ -16,6 +16,7 @@ Imagine you have a remote control with 100 buttons, but you only need 5 to watch
 - **Hard to maintain**: Since you have to implement methods that aren’t needed.
 - **Confusing**: Because it adds unnecessary complexity.
 - **Less flexible**: Changes to the interface can affect classes that don’t even use certain methods.
-
+### Lecture Video:
 The **Interface Segregation Principle** helps solve these problems by suggesting that we split large interfaces into smaller, more focused ones. That way, each class only implements the methods it really needs, keeping the design clean and simple.
 
+https://github.com/user-attachments/assets/0668b089-d87c-477f-a103-feb620084570
